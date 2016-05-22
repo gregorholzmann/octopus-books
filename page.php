@@ -12,7 +12,7 @@
 
 get_header(); ?>
 
-	
+
 <div class="primaryContent ten columns">
 
 			<?php while ( have_posts() ) : the_post(); ?>
@@ -23,5 +23,4 @@ get_header(); ?>
 
 </div><!-- End primary content -->
 
-<?php get_sidebar('books'); ?>
 <?php get_footer(); ?>

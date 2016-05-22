@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
 	display:inline-block;
 	text-transform:capitalize;
 	a:link {
-		border-bottom:0;	
+		border-bottom:0;
 		&:visited {
 			text-decoration:none;
 		}
@@ -216,7 +216,7 @@ input[type="button"] {
 
 	}
 	&:active {
-		
+
 	}
 	&.full-width {
 		width: 100%;

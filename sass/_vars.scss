@@ -8,7 +8,7 @@ $backgroundColor: #F3EFE3; 														// default background information
 
 // font vars
 $fontSize: 16px; 																// default font size. Change here will adjust sizes across the board.
-$fontFamily: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;	// default fonts
+$fontFamily: 'Halant', "Times New Roman", serif;	// default fonts
 $fontColor: #220601; 																// default font color
 
 // form vars
@@ -20,7 +20,7 @@ $linkHoverColor: #005533;															// default link HOVER color
 $linkDecoration: none;														// default link decoration
 
 // heading vars
-$headingFamily: "Helvetica Neue", Helvetica, Arial, sans-serif;							// default heading font
+$headingFamily: 'Karla', Helvetica, Arial, sans-serif;							// default heading font
 $headingColor: $fontColor;															// default heading color
 
 // grid variables

@@ -43,6 +43,5 @@ get_header();
 		<?php endif; ?>
 	</div> <!-- END CATALOG ROW -->
 <?php wp_reset_query();?>
-
-<?php get_sidebar('partners-wide');?>
+</div>
 <?php get_footer();?>

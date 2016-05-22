@@ -16,6 +16,7 @@
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 <script type="text/javascript" src="//use.typekit.net/jdu4hiq.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link href='https://fonts.googleapis.com/css?family=Karla|Halant' rel='stylesheet' type='text/css'>
 <?php wp_head(); ?>
 </head>
 
@@ -27,17 +28,16 @@
 		</a>
 		</div>
 	</div>
-	
+
 	<div class="container">
 				<header id="header">
 					<div class="octopus">
 						<?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
 					</div>
-					
+
 					<div class="mobileNav">
 						<?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
 					</div>
 				</header>
 			</div>
 <div class="container">
-

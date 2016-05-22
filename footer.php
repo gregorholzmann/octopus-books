@@ -7,11 +7,11 @@
  * @package eight
  */
 ?>
-	
+
 
 	</div><!--END CONTAINER -->
 <footer id="footer">
-	
+
 <div class="container">
 	<div class="one-third columns mission-statement">
 		<?php the_field('footer_mission_statement', 'option');?>
@@ -26,9 +26,9 @@
 			<p>Follow us on <a href="https://twitter.com/Octopus__Books" target="_blank">Twitter</a></p>
 		</div>
 
-		<div class="six columns footer-menu">
+		<!-- <div class="six columns footer-menu">
 			<?php wp_nav_menu( array( 'theme_location' => 'footer' ) ); ?>
-		</div>
+		</div> -->
 	</div>
 </div>
 </footer>

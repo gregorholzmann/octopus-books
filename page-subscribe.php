@@ -33,5 +33,4 @@ get_header();
 </div>
 <?php wp_reset_query();?>
 
-<?php get_sidebar('books');?>
 <?php get_footer();?>
